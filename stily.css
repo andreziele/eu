@@ -1,0 +1,26 @@
+body{background-color:#000}
+
+	p{font-size:30pt; color:#fff; background-color:#9B6057;}
+			
+		
+	h1{color:#fff;font-size:50pt}
+	
+	div{border:1px solid #fff;  margin:50px 1000px 1px 60px;}
+	
+	h1{
+		text-align: center;
+		color: #fff;
+	}
+	
+	a:hover{color:#000}
+	
+	a:link, a:visited {
+		background-color: #fff;
+		color: black;
+		padding: 14px 25px;
+		text-align: center;
+		text-decoration: none;
+		display: inline-block;
+}
+	a:hover, a:active {
+		background-color: red;
